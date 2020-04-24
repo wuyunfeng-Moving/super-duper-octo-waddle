@@ -1,0 +1,6 @@
+#inlcude <stidio.h>
+
+main()
+{
+ printf("TO C OR NOT TO C\n");
+}
